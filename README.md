@@ -1,7 +1,7 @@
-labs
+labs - jQuery Filter 
 ====
-jQuery Filer v 1.0
+version 1.0
  
  - Filtering elements apply Jquery fadeOut.
- - jQuery dependency. 
+
  
